@@ -1,5 +1,5 @@
 
-@import UserNotifications;
+#import <UserNotifications/UserNotifications.h>
 
 #import <Cordova/CDV.h>
 #import "W3CLocalNotifications.h"
